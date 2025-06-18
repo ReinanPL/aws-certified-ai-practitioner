@@ -1,6 +1,4 @@
-# aws-certified-ai-practitioner
-
-Guia de Estudo AWS AI Practitioner
+# Guia de Estudo AWS AI Practitioner
 
 
 1. Fundamentos de IA e ML
