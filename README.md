@@ -143,42 +143,52 @@ Princípios para construir sistemas de IA éticos e confiáveis.
 ### `Amazon Rekognition`
 
   * **O que faz:** Análise de imagens e vídeos (detecta objetos, rostos, texto, modera conteúdo).
+  * **Casos de uso:** Busca de imagens por conteúdo, segurança patrimonial, moderação de mídias sociais.
 
 ### `Amazon Comprehend`
 
   * **O que faz:** Análise de linguagem natural (identifica sentimento, entidades, PII).
+  * **Casos de uso:** Análise de feedback de clientes, moderação de comentários, conformidade.
 
 ### `Amazon Transcribe`
 
   * **O que faz:** Converte áudio em texto (transcrição de fala).
+  * **Casos de uso:** Legendas automáticas, transcrição de reuniões, análise de chamadas de call center.
 
 ### `Amazon Polly`
 
   * **O que faz:** Converte texto em áudio com vozes realistas.
+  * **Casos de uso:** Audiolivros, assistentes de voz, sistemas de atendimento telefônico (IVR).
 
 ### `Amazon Translate`
 
   * **O que faz:** Traduz texto entre múltiplos idiomas.
+  * **Casos de uso:** Tradução de websites, suporte ao cliente multilíngue.
 
 ### `Amazon Lex`
 
   * **O que faz:** Permite construir chatbots e assistentes virtuais.
+  * **Casos de uso:** Chatbots de atendimento, interfaces de voz para aplicativos.
 
 ### `Amazon Textract`
 
   * **O que faz:** Extrai texto e dados de documentos (PDFs, imagens).
+  * **Casos de uso:** Automação de processamento de faturas, digitalização de formulários.
 
 ### `Amazon Forecast`
 
   * **O que faz:** Usa ML para fazer previsões de séries temporais (vendas, demanda).
+  * **Casos de uso:** Previsão de demanda de produtos, planejamento de estoque e recursos.
 
 ### `Amazon Personalize`
 
   * **O que faz:** Cria motores de recomendação personalizados.
+  * **Casos de uso:** Recomendações de produtos em e-commerce, sugestão de conteúdo em streaming.
 
 ### `Amazon Kendra`
 
   * **O que faz:** Motor de busca inteligente para empresas, que entende a intenção da pergunta.
+  * **Casos de uso:** Portais de busca internos (intranet), FAQs inteligentes para suporte.
 
 -----
 
